@@ -16,4 +16,4 @@ The authenticity of host 'github.com (IP ADDRESS)' can't be established.
 > Hi USERNAME! You've successfully authenticated, but GitHub does not
 > provide shell access.
 ```
-- Push it using "git push (add ssh url of your repository"
+- Push it using "git push (add ssh url of your repository)"
